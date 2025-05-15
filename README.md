@@ -29,7 +29,7 @@
 ## Kurulum
 
 ```bash
-git clone https://github.com/Oxeser/Nova
+git clone https://github.com/Oxeser/Nova.git
 cd Nova
 pip install -r requirements.txt
 python3 Nova.py
