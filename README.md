@@ -32,4 +32,4 @@
 git clone https://github.com/kullaniciadi/nova.git
 cd nova
 pip install -r requirements.txt
-python3 nova.py
+python3 Nova.py
